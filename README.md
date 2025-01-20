@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LiamSymes
 - 👀 I’m interested in Gaming, Programming and Football
-- 🌱 I’m currently learning Games Technology at UWE (Third year)
-- 💞️ I’m looking to collaborate on N/A
+- 🌱 I’m a UWE Games Technology Graduate 
+- 💞️ I’m looking to collaborate on any projects so let me know!
 - 📫 How to reach me @Liamsymes2@gmail.com
 
 <!---
