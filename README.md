@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming, Programming and Football
 - 🌱 I’m currently learning Games Technology at UWE (Third year)
 - 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me @Liam2.symes@live.uwe.ac.uk
+- 📫 How to reach me @Liamsymes2@gmail.com
 
 <!---
 LiamSymes/LiamSymes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
